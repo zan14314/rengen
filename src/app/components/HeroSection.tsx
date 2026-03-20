@@ -1,9 +1,6 @@
-import image_dbe59ff4ceccdfe0db38f16ec582f7a18f3dd85f from 'figma:asset/dbe59ff4ceccdfe0db38f16ec582f7a18f3dd85f.png'
-import image_3d469915bb59361936ccc0eba4b24ad6b4dd91df from 'figma:asset/3d469915bb59361936ccc0eba4b24ad6b4dd91df.png'
-import image_e429b5c860d3aa78e9fd9a4a1d791c017d1063de from 'figma:asset/e429b5c860d3aa78e9fd9a4a1d791c017d1063de.png'
-import imgFreepik952421 from "figma:asset/beab6e3ee5db5e22f1bda3b2db12a9d7ae0e2c26.png";
-import imgFreepik952511 from "figma:asset/7fca0ebdd0213009a93d0f57eb4645ac17a7c1f5.png";
-import imgBottom from "figma:asset/ee49248282d34cd2573f6bb2b3365804976d4781.png";
+import image_e429b5c860d3aa78e9fd9a4a1d791c017d1063de from '../../assets/freepik__-__95242.png'
+import image_3d469915bb59361936ccc0eba4b24ad6b4dd91df from '../../assets/freepik__-__95251.png'
+import image_dbe59ff4ceccdfe0db38f16ec582f7a18f3dd85f from '../../assets/freepik_cinematic_macro_detail_shot_industrial_design_hig_95237.png'
 import { AnimatedSection } from "./AnimatedSection";
 
 export function HeroSection() {

@@ -2,11 +2,10 @@ import { HeroSection } from "./components/HeroSection";
 import { PricingSection } from "./components/PricingSection";
 import { AnimatedSection } from "./components/AnimatedSection";
 
-import imgRobotChair from "figma:asset/7824fc7bcb87ddf2ab351743e0cf0d631a54c012.png";
-import imgGskArm from "figma:asset/2b48e61efd72791c6fbe5783593583b1bcaac18d.png";
-import imgXrayDisplay from "figma:asset/27a943dd26c89b5c10d0d19fc8322018f7d164a2.png";
-import imgStors7 from "figma:asset/743a8795c2d3ede7ee7a47afc6150940c8e28a38.png";
-import imgMammograph from "figma:asset/9e6601f32b05417e9ddcb5c25177475b5bf9e869.png";
+import imgRobotChair from "../assets/freepik_cinematic_product_macro_shot_dramatic_highlights_95234.png";
+import imgGskArm from "../assets/freepik_cinematic_product_macro_shot_dramatic_highlights_95235.png";
+import imgXrayDisplay from "../assets/freepik_cinematic_product_macro_shot_dramatic_highlights_95236.png";
+import imgStors7 from "../assets/freepik_apple_infinite_black_studio_background_product_he_95245.png";
 
 export default function App() {
   return (
